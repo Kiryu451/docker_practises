@@ -1,20 +1,20 @@
 <?php
-$array = explode(',', $_GET['array']);
+$arr = explode(',', $_GET['arr']);
 
-function insertion_Sort($array)
+function insertion_Sort($arr)
 {
-	for($i=0;$i<count($array);$i++){
-		$val = $array[$i];
+	for($i=0;$i<count($arr);$i++){
+		$val = $arr[$i];
 		$j = $i-1;
-		while($j>=0 && $array[$j] > $val){
-			$array[$j+1] = $array[$j];
+		while($j>=0 && $arr[$j] > $val){
+			$arr[$j+1] = $arr[$j];
 			$j--;
 		}
-		$array[$j+1] = $val;
+		$arr[$j+1] = $val;
 	}
-	return $array;
+	return $arr;
 }
 
-$sorted_array = insertion_Sort($array);
-echo implode(',', $sorted_array);
+$sort_arr = insertion_Sort($arr);
+echo implode(',', $sort_arr);
 ?>

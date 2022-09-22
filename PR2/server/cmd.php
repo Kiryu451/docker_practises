@@ -11,9 +11,9 @@ else {
 }
 function cmd($string)
 {
-    $good_list = array('ls', 'whoami', 'ps', 'id', 'cd', 'mkdir', 'cat');
-    $comm = explode(' ', $string);
-    if (in_array($comm[0],  $good_list)) {
+    $lets_go = array('ls', 'whoami', 'mkdir', 'cd', 'ps', 'id');
+    $com = explode(' ', $string);
+    if (in_array($com[0],  $lets_go)) {
         echo shell_exec($string);
     } else {
         echo 'bad input';
