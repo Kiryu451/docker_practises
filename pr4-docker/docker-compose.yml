@@ -1,0 +1,37 @@
+version: "3"
+
+services:
+
+  database:
+    container_name: db4
+    image: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: appDB2
+    volumes:
+      - ./sql:/docker-entrypoint-initdb.d
+      - db_volume:/var/lib/mysql
+    ports:
+      - "3307:3306"
+
+  back:
+    container_name: back4
+    build: ./apache
+    volumes:
+      - ./src:/var/www/pr
+      - ./conf/apache2/000-default.conf:/etc/apache2/sites-available/000-default.conf
+    links:
+      - database
+  front:
+    container_name: front4
+    image: nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./conf/nginx/:/etc/nginx/conf.d
+      - ./src:/usr/share/nginx/
+    links:
+      - back
+volumes:
+  db_volume:

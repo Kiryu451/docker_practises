@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html  lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Вход</title>
+  <style>
+    .login-form{
+      text-align: center;
+      margin-top: 20%;
+    }
+    .input{
+      width: 200px;
+      height: 15px;
+    }
+</style>
+</head>
+<body>
+  <form class="login-form" action="check.php" method="get">
+    <div class="flex-row">
+      <input id="username" class='input' placeholder='Логин' type='text' name="uname" required>
+    </div>
+    <p></p>
+    <div class="flex-row">
+      <input id="password" class='input' placeholder='Пароль' type='password' name="psw" required>
+    </div>
+    <p></p>
+    <input class='submit' type='submit' value='Войти'>
+  </form>
+</body>
+</html>
+
+
