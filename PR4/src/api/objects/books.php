@@ -53,7 +53,7 @@ class Books
         if (empty($this->connect->query($sql)->fetch(PDO::FETCH_ASSOC))) {
             return false;
         }
-        $this->title = htmlspecialchars(strip_tags($this->name));
+        $this->title = htmlspecialchars(strip_tags($this->title));
         $this->content = htmlspecialchars(strip_tags($this->content));
         $this->author = htmlspecialchars(strip_tags($this->author));
 
