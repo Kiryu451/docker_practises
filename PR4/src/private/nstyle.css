@@ -1,0 +1,11 @@
+h1, p{
+    text-align: center;
+}
+.info{
+    width: 100%;
+}
+.mainContent, .photo{
+    display: flex;
+    flex: 1 1 0;
+    justify-content: space-around;
+}
