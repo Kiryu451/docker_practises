@@ -1,4 +1,5 @@
 <?php
+session_start();
 $themeStyleSheet = 'css/light_theme.css';
 if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     $themeStyleSheet = 'css/dark_theme.css';
