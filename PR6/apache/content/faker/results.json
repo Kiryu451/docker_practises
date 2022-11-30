@@ -1,0 +1,352 @@
+[
+    {
+        "employeeCount": "1",
+        "clientCount": "11",
+        "services": "Yoga",
+        "daystart": "1666038909",
+        "dayend": "1666067709"
+    },
+    {
+        "employeeCount": "29",
+        "clientCount": "15",
+        "services": "Pilates",
+        "daystart": "1666122589",
+        "dayend": "1666151389"
+    },
+    {
+        "employeeCount": "12",
+        "clientCount": "7",
+        "services": "Yoga",
+        "daystart": "1665941107",
+        "dayend": "1665969907"
+    },
+    {
+        "employeeCount": "18",
+        "clientCount": "45",
+        "services": "Pilates",
+        "daystart": "1665542679",
+        "dayend": "1665571479"
+    },
+    {
+        "employeeCount": "14",
+        "clientCount": "20",
+        "services": "Fullbody",
+        "daystart": "1665897803",
+        "dayend": "1665926603"
+    },
+    {
+        "employeeCount": "2",
+        "clientCount": "19",
+        "services": "Fullbody",
+        "daystart": "1666213186",
+        "dayend": "1666241986"
+    },
+    {
+        "employeeCount": "30",
+        "clientCount": "46",
+        "services": "Yoga",
+        "daystart": "1665706792",
+        "dayend": "1665735592"
+    },
+    {
+        "employeeCount": "12",
+        "clientCount": "20",
+        "services": "Yoga",
+        "daystart": "1666138235",
+        "dayend": "1666167035"
+    },
+    {
+        "employeeCount": "5",
+        "clientCount": "51",
+        "services": "Swimm",
+        "daystart": "1665918477",
+        "dayend": "1665947277"
+    },
+    {
+        "employeeCount": "15",
+        "clientCount": "7",
+        "services": "Fullbody",
+        "daystart": "1665560462",
+        "dayend": "1665589262"
+    },
+    {
+        "employeeCount": "25",
+        "clientCount": "50",
+        "services": "Swimm",
+        "daystart": "1665456990",
+        "dayend": "1665485790"
+    },
+    {
+        "employeeCount": "11",
+        "clientCount": "19",
+        "services": "Yoga",
+        "daystart": "1666137636",
+        "dayend": "1666166436"
+    },
+    {
+        "employeeCount": "5",
+        "clientCount": "15",
+        "services": "Yoga",
+        "daystart": "1665457524",
+        "dayend": "1665486324"
+    },
+    {
+        "employeeCount": "5",
+        "clientCount": "37",
+        "services": "Swimm",
+        "daystart": "1666082198",
+        "dayend": "1666110998"
+    },
+    {
+        "employeeCount": "19",
+        "clientCount": "45",
+        "services": "Fullbody",
+        "daystart": "1665765458",
+        "dayend": "1665794258"
+    },
+    {
+        "employeeCount": "28",
+        "clientCount": "31",
+        "services": "Pilates",
+        "daystart": "1665737586",
+        "dayend": "1665766386"
+    },
+    {
+        "employeeCount": "29",
+        "clientCount": "17",
+        "services": "Fullbody",
+        "daystart": "1666094503",
+        "dayend": "1666123303"
+    },
+    {
+        "employeeCount": "15",
+        "clientCount": "17",
+        "services": "Swimm",
+        "daystart": "1665517056",
+        "dayend": "1665545856"
+    },
+    {
+        "employeeCount": "3",
+        "clientCount": "32",
+        "services": "Yoga",
+        "daystart": "1665577436",
+        "dayend": "1665606236"
+    },
+    {
+        "employeeCount": "21",
+        "clientCount": "39",
+        "services": "Pilates",
+        "daystart": "1665869982",
+        "dayend": "1665898782"
+    },
+    {
+        "employeeCount": "15",
+        "clientCount": "13",
+        "services": "Yoga",
+        "daystart": "1666261831",
+        "dayend": "1666290631"
+    },
+    {
+        "employeeCount": "13",
+        "clientCount": "7",
+        "services": "Pilates",
+        "daystart": "1665799910",
+        "dayend": "1665828710"
+    },
+    {
+        "employeeCount": "23",
+        "clientCount": "51",
+        "services": "Swimm",
+        "daystart": "1665904244",
+        "dayend": "1665933044"
+    },
+    {
+        "employeeCount": "25",
+        "clientCount": "5",
+        "services": "Yoga",
+        "daystart": "1666093373",
+        "dayend": "1666122173"
+    },
+    {
+        "employeeCount": "17",
+        "clientCount": "39",
+        "services": "Pilates",
+        "daystart": "1666208757",
+        "dayend": "1666237557"
+    },
+    {
+        "employeeCount": "30",
+        "clientCount": "28",
+        "services": "Fullbody",
+        "daystart": "1665547987",
+        "dayend": "1665576787"
+    },
+    {
+        "employeeCount": "5",
+        "clientCount": "55",
+        "services": "Swimm",
+        "daystart": "1665738493",
+        "dayend": "1665767293"
+    },
+    {
+        "employeeCount": "29",
+        "clientCount": "22",
+        "services": "Pilates",
+        "daystart": "1665855620",
+        "dayend": "1665884420"
+    },
+    {
+        "employeeCount": "18",
+        "clientCount": "38",
+        "services": "Pilates",
+        "daystart": "1666205551",
+        "dayend": "1666234351"
+    },
+    {
+        "employeeCount": "29",
+        "clientCount": "2",
+        "services": "Yoga",
+        "daystart": "1665975639",
+        "dayend": "1666004439"
+    },
+    {
+        "employeeCount": "14",
+        "clientCount": "47",
+        "services": "Swimm",
+        "daystart": "1665658938",
+        "dayend": "1665687738"
+    },
+    {
+        "employeeCount": "21",
+        "clientCount": "20",
+        "services": "Yoga",
+        "daystart": "1666237568",
+        "dayend": "1666266368"
+    },
+    {
+        "employeeCount": "23",
+        "clientCount": "12",
+        "services": "Yoga",
+        "daystart": "1665684291",
+        "dayend": "1665713091"
+    },
+    {
+        "employeeCount": "12",
+        "clientCount": "43",
+        "services": "Swimm",
+        "daystart": "1665889078",
+        "dayend": "1665917878"
+    },
+    {
+        "employeeCount": "22",
+        "clientCount": "12",
+        "services": "Swimm",
+        "daystart": "1666173471",
+        "dayend": "1666202271"
+    },
+    {
+        "employeeCount": "10",
+        "clientCount": "49",
+        "services": "Pilates",
+        "daystart": "1665804738",
+        "dayend": "1665833538"
+    },
+    {
+        "employeeCount": "12",
+        "clientCount": "31",
+        "services": "Fullbody",
+        "daystart": "1665841880",
+        "dayend": "1665870680"
+    },
+    {
+        "employeeCount": "14",
+        "clientCount": "4",
+        "services": "Fullbody",
+        "daystart": "1665470899",
+        "dayend": "1665499699"
+    },
+    {
+        "employeeCount": "8",
+        "clientCount": "43",
+        "services": "Fullbody",
+        "daystart": "1665589976",
+        "dayend": "1665618776"
+    },
+    {
+        "employeeCount": "23",
+        "clientCount": "48",
+        "services": "Fullbody",
+        "daystart": "1665681988",
+        "dayend": "1665710788"
+    },
+    {
+        "employeeCount": "13",
+        "clientCount": "46",
+        "services": "Pilates",
+        "daystart": "1665569079",
+        "dayend": "1665597879"
+    },
+    {
+        "employeeCount": "10",
+        "clientCount": "27",
+        "services": "Pilates",
+        "daystart": "1665878086",
+        "dayend": "1665906886"
+    },
+    {
+        "employeeCount": "13",
+        "clientCount": "51",
+        "services": "Fullbody",
+        "daystart": "1665625735",
+        "dayend": "1665654535"
+    },
+    {
+        "employeeCount": "9",
+        "clientCount": "48",
+        "services": "Pilates",
+        "daystart": "1665496430",
+        "dayend": "1665525230"
+    },
+    {
+        "employeeCount": "21",
+        "clientCount": "49",
+        "services": "Pilates",
+        "daystart": "1665853575",
+        "dayend": "1665882375"
+    },
+    {
+        "employeeCount": "14",
+        "clientCount": "40",
+        "services": "Fullbody",
+        "daystart": "1666169836",
+        "dayend": "1666198636"
+    },
+    {
+        "employeeCount": "17",
+        "clientCount": "48",
+        "services": "Fullbody",
+        "daystart": "1665458404",
+        "dayend": "1665487204"
+    },
+    {
+        "employeeCount": "1",
+        "clientCount": "47",
+        "services": "Swimm",
+        "daystart": "1665933294",
+        "dayend": "1665962094"
+    },
+    {
+        "employeeCount": "3",
+        "clientCount": "18",
+        "services": "Yoga",
+        "daystart": "1666029524",
+        "dayend": "1666058324"
+    },
+    {
+        "employeeCount": "1",
+        "clientCount": "4",
+        "services": "Pilates",
+        "daystart": "1666078448",
+        "dayend": "1666107248"
+    }
+]
